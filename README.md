@@ -1,0 +1,2 @@
+# simple-camping
+first commit
